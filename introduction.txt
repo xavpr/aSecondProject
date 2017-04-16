@@ -1,0 +1,4 @@
+This is just a file created for the Git Course in OC
+There's nothing more to add...
+
+Have a good day :-)
